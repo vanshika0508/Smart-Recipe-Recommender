@@ -9,3 +9,33 @@ recipe_id,recipe_name,ingredients,cuisine,cook_time,difficulty,calories
 8,Paneer Bhurji,"paneer,onion,tomato,oil,salt,spices",Indian,20,Medium,290
 9,Potato Cheese Bowl,"potato,cheese,butter,salt,pepper",Western,20,Easy,310
 10,Garlic Rice,"rice,garlic,oil,salt",Asian,15,Easy,210
+11,Jeera Rice,"rice,cumin,oil,salt",Indian,20,Easy,220
+12,Poha,"poha,onion,oil,salt,peas,turmeric",Indian,20,Easy,230
+13,Upma,"semolina,onion,oil,salt,mustard seeds,curry leaves",Indian,25,Medium,260
+14,Chana Salad,"chickpeas,onion,tomato,salt,lemon",Indian,15,Easy,190
+15,Egg Bhurji,"egg,onion,tomato,oil,salt,spices",Indian,15,Easy,210
+16,Grilled Cheese,"bread,cheese,butter",Western,10,Easy,290
+17,French Toast,"bread,egg,milk,butter",Western,15,Easy,300
+18,Mashed Potato,"potato,butter,salt,pepper",Western,20,Easy,240
+19,Veg Sandwich,"bread,tomato,onion,butter,cucumber",Western,10,Easy,220
+20,Mac and Cheese,"pasta,cheese,butter,milk,salt",Western,25,Medium,400
+21,White Sauce Pasta,"pasta,milk,butter,flour,salt,pepper",Italian,30,Medium,390
+22,Aglio e Olio,"pasta,garlic,oil,salt,chili flakes",Italian,20,Easy,330
+23,Bruschetta,"bread,tomato,garlic,oil,salt",Italian,15,Easy,200
+24,Margherita Toast,"bread,cheese,tomato,oregano,butter",Italian,15,Easy,270
+25,Rice Bowl,"rice,carrot,beans,salt,oil",Asian,20,Easy,250
+26,Noodles Stir Fry,"noodles,carrot,beans,onion,soy sauce,oil,salt",Asian,25,Medium,340
+27,Garlic Noodles,"noodles,garlic,oil,salt,soy sauce",Asian,20,Easy,310
+28,Egg Fried Rice,"rice,egg,onion,soy sauce,oil,salt",Asian,25,Medium,330
+29,Vegetable Soup,"carrot,beans,tomato,salt,pepper,garlic",General,25,Easy,170
+30,Tomato Soup,"tomato,garlic,butter,salt,pepper",General,20,Easy,160
+31,Cheese Omelette,"egg,cheese,butter,salt,pepper",General,10,Easy,240
+32,Boiled Egg Salad,"egg,onion,tomato,salt,pepper",General,15,Easy,170
+33,Paneer Sandwich,"bread,paneer,butter,onion,tomato",Indian,15,Easy,280
+34,Aloo Paratha,"potato,flour,oil,salt,spices",Indian,30,Medium,350
+35,Curd Rice,"rice,curd,salt,mustard seeds,curry leaves",Indian,20,Easy,260
+36,Lemon Rice,"rice,lemon,oil,salt,mustard seeds,curry leaves",Indian,20,Easy,240
+37,Fried Potato,"potato,oil,salt,pepper",General,15,Easy,210
+38,Paneer Rice Bowl,"rice,paneer,onion,tomato,salt,oil",Indian,25,Medium,330
+39,Cheesy Pasta,"pasta,cheese,milk,butter,salt",Italian,25,Medium,410
+40,Simple Salad,"tomato,onion,cucumber,salt,lemon",General,10,Easy,120
