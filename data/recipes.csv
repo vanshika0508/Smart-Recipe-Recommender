@@ -1,0 +1,11 @@
+recipe_id,recipe_name,ingredients,cuisine,cook_time,difficulty,calories
+1,Tomato Rice,"rice,tomato,onion,oil,salt",Indian,25,Easy,250
+2,Veg Fried Rice,"rice,carrot,beans,onion,soy sauce,oil,salt",Asian,30,Medium,320
+3,Aloo Tikki,"potato,onion,salt,oil,spices",Indian,20,Easy,200
+4,Cheese Sandwich,"bread,cheese,butter",Western,10,Easy,280
+5,Omelette,"egg,onion,salt,oil",General,10,Easy,180
+6,Pasta Arrabiata,"pasta,tomato,garlic,oil,salt,chili flakes",Italian,25,Medium,350
+7,Masala Maggi,"noodles,onion,tomato,oil,salt,spices",Indian,15,Easy,300
+8,Paneer Bhurji,"paneer,onion,tomato,oil,salt,spices",Indian,20,Medium,290
+9,Potato Cheese Bowl,"potato,cheese,butter,salt,pepper",Western,20,Easy,310
+10,Garlic Rice,"rice,garlic,oil,salt",Asian,15,Easy,210
